@@ -1,0 +1,3 @@
+GitHub Link: https://github.com/chris105115/NEU_CSYE_7374_Final_Project.git
+
+I also attached a checkpoint file as my final result from the model, the user can load the checkpoint file to see the model's performance.
